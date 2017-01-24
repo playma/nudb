@@ -1,0 +1,30 @@
+{
+  "name": "nudb",
+  "version": "0.0.0",
+  "description": "NuDB",
+  "main": "./index.js",
+  "engines": {
+    "node": ">=7.0"
+  },
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/playma/nudb.git"
+  },
+  "keywords": [
+    "nudb",
+    "database",
+    "db",
+    "search",
+    "search-engine"
+  ],
+  "author": "Chieh Teng Chang <scott820914@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/playma/nudb/issues"
+  },
+  "homepage": "https://github.com/playma/nudb#readme"
+}
